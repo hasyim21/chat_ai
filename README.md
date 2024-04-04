@@ -1,16 +1,11 @@
-# chat_ai
+# Chat AI
 
-A new Flutter project.
+![1](https://github.com/hasyim21/chat_ai/assets/80388567/a45f9a78-6d7f-49b4-be60-e85e79999a19)
 
-## Getting Started
+![2](https://github.com/hasyim21/chat_ai/assets/80388567/afd32f10-d1b7-4c3b-9bbd-a3fc6da4be3e)
 
-This project is a starting point for a Flutter application.
+![3](https://github.com/hasyim21/chat_ai/assets/80388567/d959cec6-7596-4b54-a762-252aa232152a)
 
-A few resources to get you started if this is your first Flutter project:
+![4](https://github.com/hasyim21/chat_ai/assets/80388567/850114f2-e654-42a9-8009-9861c16969b7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/hasyim21/chat_ai/assets/80388567/d8fbab3a-7867-4641-9330-0e0606db0901)
